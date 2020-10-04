@@ -4,7 +4,7 @@
     {
       "status":"0",
       "link":"",
-      "pengaturan_iklan":"2",
+      "pengaturan_iklan":"1",
       "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
       "admob_banner":"ca-app-pub-3940256099942544/6300978111",
       "admob_inter":"ca-app-pub-3940256099942544/1033173712",
@@ -109,12 +109,7 @@
       "skin_url":"https://aliendro.id/wp-content/skin/one.png",
       "view_skin":"https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
     },
-    {
-      "id":12,
-      "nama_skin":"Son Goku",
-      "skin_url":"https://aliendro.id/wp-content/skin/goku.png",
-      "view_skin":"https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
-    }
+   
   ],
   "Addons":
   [
