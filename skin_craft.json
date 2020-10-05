@@ -57,7 +57,6 @@
       "skin_url":"https://aliendro.id/wp-content/skin/iron.png",
       "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
     },
-
     {
       "id":4,
       "nama_skin":"Spiderman",
@@ -76,8 +75,6 @@
       "skin_url":"https://aliendro.id/wp-content/skin/cap.png",
       "view_skin":"https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
     },
-
-
     {
       "id":7,
       "nama_skin":"Wallverine",
@@ -150,7 +147,7 @@
       "skin_url":"http://novask.in/2006873062.png",
       "view_skin":"https://lh3.googleusercontent.com/joyPW0FiHE8-rnabgZE3zhm4NT7Nx7avQkqvb9UmKL4_Lbo7z4_I8N4Lmz5OuZDtOG_C5ZynvqsuaMLYXh5m7g"
     },
-{
+    {
       "id":19,
       "nama_skin":"toomy gta vice city",
       "skin_url":"http://novask.in/4166993292.png",
@@ -174,7 +171,6 @@
       "skin_url":"http://novask.in/2647223044.png",
       "view_skin":"https://lh3.googleusercontent.com/mtdK2k5DQR6WAajKNmVFhgc-x-AaldBT0mIYdg276W0nX0grgH74VzyN7GTnYOVvHXinF32JGuEqG9c3tm-zAsU"
     },
-
     {
       "id":23,
       "nama_skin":"Motor Officer(GTA SA)",
@@ -270,7 +266,7 @@
       "nama_skin":"skin isaac minecraft gta",
       "skin_url":"http://novask.in/4375513254.png",
       "view_skin":"https://lh3.googleusercontent.com/gtgBJf1AQcg7eQFIFr53G7jxGJ7nKqez6OEfUGAjGq_zlxyCmJN92tBWWO86jWK6MQA9RxY1DmM7pFtDboi4aw"
-    },
+    }
    
   ],
   "Addons":
